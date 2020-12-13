@@ -1,6 +1,6 @@
 # not-hotdog 🌭
 
-Detect if Hotdog or not hotdog!
+> Detect if Hotdog or not hotdog! Worse thing than Jin Yang's hotdog-not-hotdog app!!
 
 <p align="center">
   <img src="./cover.jpg" alt="react native chat" width="100%" />
