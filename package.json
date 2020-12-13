@@ -1,0 +1,16 @@
+{
+  "name": "not-hotdog",
+  "version": "1.0.0",
+  "description": "Hotdog or not hotdog!",
+  "main": "index.js",
+  "repository": "https://github.com/vishalnarkhede/not-hotdog",
+  "author": "vishtree <vishalnarkhede.iitd@gmail.com> (https://github.com/vishalnarkhede)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vishalnarkhede/not-hotdog/issues"
+  },
+  "homepage": "https://github.com/vishalnarkhede/not-hotdog#readme",
+  "dependencies": {
+    "is-string": "1.0.5"
+  }
+}
